@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\pemrograman\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\net5.0\ProjectMahasiswa.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\pemrograman\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\net5.0\ProjectMahasiswa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\pemrograman\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\net5.0\ProjectMahasiswa.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\pemrograman\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\net5.0\ProjectMahasiswa.AssemblyInfo.cs
+C:\Users\user\Desktop\pemrograman\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\net5.0\ProjectMahasiswa.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\pemrograman\ProjectMahasiswa\ProjectMahasiswa\bin\Debug\net5.0\ProjectMahasiswa.exe
+C:\Users\user\Desktop\pemrograman\ProjectMahasiswa\ProjectMahasiswa\bin\Debug\net5.0\ProjectMahasiswa.deps.json
+C:\Users\user\Desktop\pemrograman\ProjectMahasiswa\ProjectMahasiswa\bin\Debug\net5.0\ProjectMahasiswa.runtimeconfig.json
+C:\Users\user\Desktop\pemrograman\ProjectMahasiswa\ProjectMahasiswa\bin\Debug\net5.0\ProjectMahasiswa.runtimeconfig.dev.json
+C:\Users\user\Desktop\pemrograman\ProjectMahasiswa\ProjectMahasiswa\bin\Debug\net5.0\ProjectMahasiswa.dll
+C:\Users\user\Desktop\pemrograman\ProjectMahasiswa\ProjectMahasiswa\bin\Debug\net5.0\ref\ProjectMahasiswa.dll
+C:\Users\user\Desktop\pemrograman\ProjectMahasiswa\ProjectMahasiswa\bin\Debug\net5.0\ProjectMahasiswa.pdb
+C:\Users\user\Desktop\pemrograman\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\net5.0\ProjectMahasiswa.dll
+C:\Users\user\Desktop\pemrograman\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\net5.0\ref\ProjectMahasiswa.dll
+C:\Users\user\Desktop\pemrograman\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\net5.0\ProjectMahasiswa.pdb
+C:\Users\user\Desktop\pemrograman\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\net5.0\ProjectMahasiswa.genruntimeconfig.cache
